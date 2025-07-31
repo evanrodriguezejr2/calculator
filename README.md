@@ -1,13 +1,13 @@
 # calculator
 
 ### Description
-_Basic calculator application._
+_Basic calculator._
 
 ### Languages/Technologies/Tools Used
 - Python
   
 ### Demo
-[Calculator Screenshot](images/calculator_screenshot.PNG)
+[Screenshot](images/calculator_screenshot.PNG)
 
 ### Installation
 1. Make sure Python is installed
