@@ -5,6 +5,8 @@ _Basic calculator._
 
 ### Languages Used
 - Python
+- Built on top of basic graphics library graphics.py, which is built on top of Tkinter
+<br>(Zelle, John. Python Programming: An Introduction to Computer Science. 3rd ed., Franklin, Beedle & Associates, 2016.)
   
 ### Demo
 [Screenshot](images/calculator_screenshot.PNG)
