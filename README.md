@@ -3,7 +3,7 @@
 ### Description
 _Basic calculator._
 
-### Languages/Technologies/Tools Used
+### Languages Used
 - Python
   
 ### Demo
